@@ -1,2 +1,2 @@
 # Test
-Test Create a new repository
+This repository is for testing creating a new repository.
